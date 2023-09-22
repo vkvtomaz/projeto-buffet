@@ -13,6 +13,10 @@
     --cor3: #e791f7;
 }
 
+body, html {
+    height: 100vh;
+}
+
 body {
     background-color: var(--cor0);
 }
