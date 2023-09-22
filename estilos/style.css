@@ -87,6 +87,10 @@ main > p {
     font-weight: lighter;
 }
 
+div#iframe {
+    display: block;
+}
+
 form {
     font-family: Arial, Helvetica, sans-serif
 }
