@@ -24,13 +24,15 @@ body {
 
 header {
     background-color: var(--cor3);
+    margin: auto;
 }
 
 div#logo {
+    margin: auto;
     width: 100%;
     display: inline-block;
     text-align: center;
-    padding-right: -20px;
+    padding-right: -50px;
     padding-top: 10px;    
 }
 
