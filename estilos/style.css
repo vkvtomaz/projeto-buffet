@@ -14,7 +14,8 @@
 }
 
 html {
-    viewport-fit: 100%;
+    width: auto;
+    height: 100vh;
 }
 
 body {
