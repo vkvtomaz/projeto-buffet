@@ -13,6 +13,10 @@
     --cor3: #e791f7;
 }
 
+html {
+    viewport-fit: 100%;
+}
+
 body {
     background-color: var(--cor0);
 }
@@ -24,7 +28,6 @@ header {
 div#logo {
     text-align: center;
     padding: 0px;
-    display: block;
     padding-top: 10px;    
 }
 
