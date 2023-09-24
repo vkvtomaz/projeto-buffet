@@ -27,6 +27,8 @@ header {
 }
 
 div#logo {
+    width: 100%;
+    display: inline-block;
     text-align: center;
     padding-right: -20px;
     padding-top: 10px;    
