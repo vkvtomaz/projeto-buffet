@@ -1,0 +1,9 @@
+Site projeto iniciado no dia 18/09/23 por Vinicius Tomaz
+
+Site inspiração: https://www.buffeteria.com.br/
+
+Site projeto foi criado usando apenas imagens de uso livre, disponiveis no site https://www.pexels.com/pt-br/
+
+Referencias de dados complementares: https://brasil.un.org/pt-br
+
+Obrigado!

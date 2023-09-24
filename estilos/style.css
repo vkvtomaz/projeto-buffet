@@ -13,10 +13,6 @@
     --cor3: #e791f7;
 }
 
-body, html {
-    height: 100vh;
-}
-
 body {
     background-color: var(--cor0);
 }
@@ -91,8 +87,32 @@ main > p {
     font-weight: lighter;
 }
 
-div#iframe {
-    display: block;
+article {
+    display: flex;
+    justify-content: space-between;
+}
+
+div#container-a {
+    display: inline-block;
+    text-align: left;
+    width: 50%;
+}
+
+div#container-a > p, h3 {
+    padding-left: 20px;
+}
+
+div#container-b {    
+    display: relative;
+    text-align: right;
+    width: 50%;
+}
+
+iframe {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    
 }
 
 form {
@@ -119,6 +139,8 @@ form input:focus, form textarea:focus {
 form input[type=submit] {
     cursor: pointer;
 }
+
+
 
 div#form {
     text-align: center;
